@@ -3,7 +3,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.Font?>
-<BorderPane fx:id="mainBorderPane" fx:controller="com.peterlock.todolist.Controller"
+<BorderPane fx:id="mainBorderPane" fx:controller="com.timbuchalka.todolist.Controller"
             xmlns:fx="http://javafx.com/fxml">
     <top>
         <VBox>

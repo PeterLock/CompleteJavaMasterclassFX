@@ -1,7 +1,7 @@
 package com.peterlock.todolist;
 
-import com.peterlock.todolist.datamodel.TodoItem;
 import com.peterlock.todolist.datamodel.TodoData;
+import com.peterlock.todolist.datamodel.TodoItem;
 import javafx.fxml.FXML;
 import javafx.scene.control.DatePicker;
 import javafx.scene.control.TextArea;
